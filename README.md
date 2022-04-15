@@ -4,4 +4,4 @@
 
 滴滴出行, 城运服架构: 
 
-email: [chpengzh@foxmail.com](mailto:chpengzh@foxmail.com), 会根据今日会议时长，酌情回复您(笑)
+[chpengzh@foxmail.com](mailto:chpengzh@foxmail.com), 会根据今日会议时长，酌情回复您(笑)
